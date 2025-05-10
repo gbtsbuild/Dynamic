@@ -159,7 +159,7 @@
             <div class="product-card">
                 <img src="https://picsum.photos/400/300" alt="Product" class="product-image">
                 <div class="product-info">
-                    <h3 class="product-title">Premium Products</h3>
+                    <h3 class="product-title">Featured Products</h3>
                     <p class="product-price">$299.99</p>
                     <button class="add-to-cart" onclick="addToCart()">Add to Cart</button>
                 </div>
@@ -174,7 +174,7 @@
         <div class="footer-content">
             <div class="footer-section">
                 <h3>About Us</h3>
-                <p>Our company - GBTS BUILDERS SOLUTION LTD offers a wide range of premium building products, hand & landscaping tools, security cameras, appliances and more...</p>
+                <p>Our company - GBTS BUILDERS SOLUTION LTD offers a wide range of premium building products, hand & landscaping tools, security cameras, appliances and more... Address: Shop 1, Jubilee market, Opp. St John's church, Ikare Akoko 342211, Ondo state, Nigeria</p>
             </div>
             <div class="footer-section">
                 <h3>Customer Service</h3>
